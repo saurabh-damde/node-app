@@ -1,8 +1,1 @@
-[
-  {
-    "title": "Test",
-    "imgUrl": "https://t4.ftcdn.net/jpg/01/66/55/01/360_F_166550191_hEVqAvFjIbRMZNDTaBoi0j7fX7ynPS5x.jpg",
-    "description": "This is a test book!",
-    "price": "12.45"
-  }
-]
+[{"id":"0","title":"Test","imgUrl":"https://t4.ftcdn.net/jpg/01/66/55/01/360_F_166550191_hEVqAvFjIbRMZNDTaBoi0j7fX7ynPS5x.jpg","description":"This is a test book!","price":"12.55"}]
